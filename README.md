@@ -24,6 +24,13 @@ Anyone who struggles with starting, finishing, or staying with a task. That incl
 
 ## How to install
 
+**Easiest path (recommended if you don't want to mess with git or the command line):**
+Go to the [Releases page](https://github.com/samyh89/EZ-Complete/releases), grab the latest `.zip`, and unzip it somewhere you can find it. That's the whole thing — no setup, no extra tools.
+
+Then follow whichever option below matches your AI tool.
+
+---
+
 The plugin is just a folder of markdown files. Point your AI tool at them however it expects.
 
 **Claude Code (plugin format):**
