@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="EZComplete.png" alt="EZ-Complete logo" width="240">
+</p>
+
 # EZ-Complete
 
 Three small helpers you can call up by name when your brain isn't cooperating. Built originally with ADHD in mind, but honestly — task paralysis, time-blindness, boring chores, scattered focus, and overwhelm hit almost everyone. If any of that sounds like you, this is for you. Based on prompts by **ERIC AHI**.
