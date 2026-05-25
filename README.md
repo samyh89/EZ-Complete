@@ -8,6 +8,8 @@ Three small helpers you can call up by name when your brain isn't cooperating. B
 
 ## What is this?
 
+<img width="240" height="240" alt="EZComplete VISUAL" src="https://github.com/user-attachments/assets/7793df55-0baf-4ebc-9999-dc697635cc64" />
+
 EZ-Complete is an add-on that gives an AI assistant three new commands to help you actually get things done:
 
 - **`/start-task`** — when there's a thing you need to do and you can't make yourself start.
