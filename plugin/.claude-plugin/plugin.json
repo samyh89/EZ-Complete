@@ -1,0 +1,8 @@
+{
+  "name": "ez-complete",
+  "version": "0.1.0",
+  "description": "EZ-Complete: three skills to help you start a task, stay on a task, and reset your brain. Built with ADHD in mind, useful for anyone. Based on prompts by ERIC AHI.",
+  "author": {
+    "name": "ERIC AHI"
+  }
+}
